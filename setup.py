@@ -26,7 +26,7 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='0.6.3',
+    version='0.6.4',
 
     description="""møte is a Fedora IRC meeting log wrangler,
     allowing users to employ an easy-to-use web front to explore the Fedora Project's
@@ -48,8 +48,8 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)',
 
-        'Programming Language :: Python :: 2',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
     ],
 
     keywords='irc meetbot fedora web scraper log',
